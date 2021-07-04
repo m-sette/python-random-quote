@@ -14,3 +14,4 @@ Design for failure
 Keep it logically awesome
 Keep it simple
 Life is short
+You only live once
